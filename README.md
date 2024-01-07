@@ -172,6 +172,10 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # • 📊 GİTHUB STATS •
 
+![Alt](https://repobeats.axiom.co/api/embed/829458f59b8c767822414b08c808ba8621b6bad8.svg "Repobeats analytics image")
+
+---
+
  <br />
  
   <p align="center">
