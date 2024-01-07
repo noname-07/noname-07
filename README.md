@@ -89,6 +89,9 @@
 </p>
 <a href="https://discord.gg/QZ3hWeJEEp"><img src="https://discord.com/api/guilds/815613595069054996/widget.png?style=banner2"></a>
 <a href="https://discord.gg/QZ3hWeJEEp"><img src="https://discord.c99.nl/widget/theme-3/918463668679770173.png"></a>
+<div align="center">
+    <a href="https://discord.com/users/918463668679770173" title="Discord Account"><img src="https://lanyard.cnrad.dev/api/918463668679770173"></a>
+</div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ---
