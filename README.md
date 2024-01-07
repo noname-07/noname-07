@@ -92,7 +92,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/noname-07/noname-07/blob/main/img/Bird%20Wing%20Left.png">
-      <img src="https://github.com/anuraghazra/github-readme-stats"><img alt="No Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=noname-07&show_icons=true&count_private=true&theme=algolia" height="192px"/>)
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NoName's Github Stats" src="https://github-readme-stats.vercel.app/api?username=noname-07&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
     <img heigth="160" width="182" src="https://github.com/noname-07/noname-07/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
