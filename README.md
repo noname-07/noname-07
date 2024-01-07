@@ -96,10 +96,10 @@
 
 | Bot | Name | Status | About | Website |
 | :---- | :---- | :---- | :---- | :---- |
-|![rowbot]([https://i.imgur.com/Mn4Tbbz.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550437966696559/RowBot.webp))| **RowBot** `✔ BOT` | `🔘 Online` | Multi-Purpose Bot | [**www.comingsoon.xyz**](https://openjourneybot.com) |
-|![Imgur]([https://i.imgur.com/UmFVQjM.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550446426587256/RowBot_Premium.webp))| **RowBot Premium** `✔ BOT` | `🛠 Maintenance` | Adv. Multi-Purpose Bot | [**www.comingsoon.xyz**](https://dovemusic.co) |
-|![Imgur]([https://i.imgur.com/ptQ9Rbc.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550454538387556/Star_Giveaway.webp))| **Star Giveaway** `✔ BOT` | `🔘 Online` | Giveaway Bot | [**www.comingsoon.xyz**](https://ivongiveaways.com) |
-|![Imgur]([https://i.imgur.com/QxrHZaX.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550463816175647/Aron_Music.webp))| **Aron Music** `✔ BOT` | `🛠 Maintenance` | Server Music Bot | `🛠 Maintenance` |
+|![rowbot](https://cdn.discordapp.com/attachments/1006962822363750401/1193555297470513344/20240107_170218.png)| **RowBot** `✔ BOT` | `Online` | Multi-Purpose Bot | [**www.comingsoon.xyz**](https://openjourneybot.com) |
+|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556132816490587/20240107_170505.png)| **RowBot Premium** `✔ BOT` | `🛠 Maintenance` | Adv. Multi-Purpose Bot | [**www.comingsoon.xyz**](https://dovemusic.co) |
+|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556142941556936/20240107_170536.png)| **Star Giveaway** `✔ BOT` | `🔘 Online` | Giveaway Bot | [**www.comingsoon.xyz**](https://ivongiveaways.com) |
+|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556163573334136/20240107_170547.png)| **Aron Music** `✔ BOT` | `🛠 Maintenance` | Server Music Bot | `🛠 Maintenance` |
 
 ---
 
