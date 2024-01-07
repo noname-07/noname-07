@@ -92,7 +92,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/noname-07/noname-07/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=noname-07&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="noname-07" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noname-07&show_icons=true&locale=en&layout=compact&theme=algolia" alt="noname-07" height="192px" />
     <img heigth="160" width="182" src="https://github.com/noname-07/noname-07/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
