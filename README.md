@@ -123,9 +123,9 @@
     <img heigth="160" width="182" src="https://github.com/noname-07/noname-07/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
- <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+ <hr/>
+  <h4 align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
+  <br>
   
   
  <!--
