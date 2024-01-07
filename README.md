@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/$-Support Me-ff69b4.svg?style=flat" alt="Donate" />
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <h1 align="center">• 💸 SUPPORT ME •</h1>
-<p><a href="https://www.buymeacoffee.com/RoyF"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RoyF" /></a> ✧ <a href="https://ko-fi.com/RoyF"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RoyF" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/RoyF"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RoyF" /></a> ✧ <a href="https://ko-fi.com/RoyF"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RoyF" /></a> ✧ <a href="https://paypal.me/royfoffical"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="noname-07" /></a></p><br><br>
   </a> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
  </a>
@@ -96,10 +96,10 @@
 
 | Bot | Name | Status | About | Website |
 | :---- | :---- | :---- | :---- | :---- |
-|![rowbot](https://cdn.discordapp.com/attachments/1006962822363750401/1193555297470513344/20240107_170218.png)| **RowBot** `✔ BOT` | `Online` | Multi-Purpose Bot | [**www.comingsoon.xyz**](https://openjourneybot.com) |
-|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556132816490587/20240107_170505.png)| **RowBot Premium** `✔ BOT` | `🛠 Maintenance` | Adv. Multi-Purpose Bot | [**www.comingsoon.xyz**](https://dovemusic.co) |
-|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556142941556936/20240107_170536.png)| **Star Giveaway** `✔ BOT` | `🔘 Online` | Giveaway Bot | [**www.comingsoon.xyz**](https://ivongiveaways.com) |
-|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556163573334136/20240107_170547.png)| **Aron Music** `✔ BOT` | `🛠 Maintenance` | Server Music Bot | `🛠 Maintenance` |
+|![rowbot](https://cdn.discordapp.com/attachments/1006962822363750401/1193555297470513344/20240107_170218.png)| **RowBot** `✔ BOT` | <a href="https://github.com/404"><img src="https://cdn.discordapp.com/attachments/1006962822363750401/1193557846260985876/20240107_171233.gif"></a>`Online` | Multi-Purpose Bot | [**www.comingsoon.xyz**](https://openjourneybot.com) |
+|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556132816490587/20240107_170505.png)| **RowBot Premium** `✔ BOT` | <a href="https://github.com/404"><img src="https://cdn.discordapp.com/attachments/1006962822363750401/1193560704482017280/20240107_172345.gif"></a>`Maintenance` | Adv. Multi-Purpose Bot | [**www.comingsoon.xyz**](https://dovemusic.co) |
+|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556142941556936/20240107_170536.png)| **Star Giveaway** `✔ BOT` | <a href="https://github.com/404"><img src="https://cdn.discordapp.com/attachments/1006962822363750401/1193557846260985876/20240107_171233.gif"></a>`Online` | Giveaway Bot | [**www.comingsoon.xyz**](https://ivongiveaways.com) |
+|![Imgur](https://cdn.discordapp.com/attachments/1006962822363750401/1193556163573334136/20240107_170547.png)| **Aron Music** `✔ BOT` | <a href="https://github.com/404"><img src="https://cdn.discordapp.com/attachments/1006962822363750401/1193560704482017280/20240107_172345.gif"></a>`Maintenance` | Server Music Bot | <a href="https://github.com/404"><img src="https://cdn.discordapp.com/attachments/1006962822363750401/1193560704482017280/20240107_172345.gif"></a>`Maintenance` |
 
 ---
 
