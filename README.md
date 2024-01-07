@@ -1,17 +1,22 @@
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![MasterHead](https://github.com/noname-07/noname-07/blob/main/img/Github%20Banner.jpg)
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- ![](https://komarev.com/ghpvc/?username=noname-07&color=blue) -->
 <div align="center">
  <a href="https://github.com/noname-07">
   <h1 align="center">Hi , I'm NoName User <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+ 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
  </p>
 <hr/>
 <h4 align="center">I'm a web developer and im currently learning programming languages like javascript, python, c++ etc.</h4>
 <br>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noname-07&label=Profile%20views&color=0e75b6&style=plastic" alt="noname-07" /> <a href="https://www.youtube.com/c/noname-07">
     <img src="https://img.shields.io/badge/$-Support Me-ff69b4.svg?style=flat" alt="Donate" />
-  </a> </p>
+  </a> 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
  </a>
 </div>
 
