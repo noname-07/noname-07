@@ -26,6 +26,8 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/noname-07?theme=unicorn)](https://leetcode.com/noname-07/)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msoftware&theme=vue)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -76,14 +78,14 @@
 -->
 <!-- END YOUTUBE-CARDS -->
 
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake.svg">
-</picture> -->
+</picture>
 
-![snake gif](https://github.com/noname-07/noname-07/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/noname-07/noname-07/blob/output/github-contribution-grid-snake.gif) -->
 
 # Github Stats
 
