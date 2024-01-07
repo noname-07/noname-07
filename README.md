@@ -167,6 +167,6 @@
 
 
 <br />
-
+![snake gif](https://github.com/noname-07/noname-07/blob/output/github-contribution-grid-snake.gif)
 <br />
-![github contribution grid snake animation](https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
