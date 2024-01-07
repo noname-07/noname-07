@@ -164,8 +164,12 @@
 <br />
 
 ![](https://github-profile-trophy.vercel.app/?username=noname-07&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-![snake gif](https://github.com/noname-07/noname-07/blob/output/github-contribution-grid-snake.gif)
 <br />
 
 <br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
