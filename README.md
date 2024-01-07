@@ -9,7 +9,9 @@
 <hr/>
 <h4 align="center">I'm a web developer and im currently learning programming languages like javascript, python, c++ etc.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=noname-07&label=Profile%20views&color=0e75b6&style=plastic" alt="noname-07" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=noname-07&label=Profile%20views&color=0e75b6&style=plastic" alt="noname-07" /> <a href="https://www.youtube.com/c/noname-07">
+    <img src="https://img.shields.io/badge/$-Support Me-ff69b4.svg?style=flat" alt="Donate" />
+  </a> </p>
  </a>
 </div>
 
@@ -24,9 +26,6 @@
 
 - 📫 How to reach me **noname-07business@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/noname-07?theme=unicorn)](https://leetcode.com/noname-07/)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noname-07&theme=vue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -86,6 +85,11 @@
 </picture>
 
 <!-- ![snake gif](https://github.com/noname-07/noname-07/blob/output/github-contribution-grid-snake.gif) -->
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/noname-07?theme=unicorn)](https://leetcode.com/noname-07/)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noname-07&theme=vue)
+
 
 # Github Stats
 
