@@ -20,42 +20,6 @@
  </a>
 </div>
 
-<div style="display: inline_block" ><br>
-
-  <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
-
-  <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="laura-c#" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="laura-.net" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
-          
-          
- 
-  <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
-</div>
-  
-  #
-  
-<div> 
-  <a href="https://www.linkedin.com/in/laura-loyola-5195aa213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/laurasiiia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lauraloyolarpeixoto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-  </div>
-
-<img src="https://github.com/noname-07/noname-07/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
-
-
-<h3 align="left">&nbsp; A passionate Web3 developer from Sweden</h3>
-
-- 🔭 I’m currently working on **React**
-
-- 💬 Ask me about **Blockchain**
-
-- 📫 How to reach me **noname-07business@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -67,11 +31,6 @@
 </p>
 
 
-
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary> 
--->
 # 💻 Languages and Tools:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -92,19 +51,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
- <!-- <summary><h2>📸 My Latest YouTube Videos</h2></summary> -->
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!--
-[![Meslekler v2024](https://ytcards.demolab.com/?id=F2vxeMU7Yg8&title=Meslekler+v2024&lang=en&timestamp=1704392730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meslekler v2024")](https://www.youtube.com/watch?v=F2vxeMU7Yg8)
-[![Özet 2023](https://ytcards.demolab.com/?id=i84n991RpDE&title=%C3%96zet+2023&lang=en&timestamp=1703784576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Özet 2023")](https://www.youtube.com/watch?v=i84n991RpDE)
-[![VR Öldü Mü?](https://ytcards.demolab.com/?id=O-Oeb9VZUsg&title=VR+%C3%96ld%C3%BC+M%C3%BC%3F&lang=en&timestamp=1703093904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VR Öldü Mü?")](https://www.youtube.com/watch?v=O-Oeb9VZUsg)
-[![Yapay Zeka Yarışları: Gemini vs Grok](https://ytcards.demolab.com/?id=AighfDLPc0A&title=Yapay+Zeka+Yar%C4%B1%C5%9Flar%C4%B1%3A+Gemini+vs+Grok&lang=en&timestamp=1702567804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Yarışları: Gemini vs Grok")](https://www.youtube.com/watch?v=AighfDLPc0A)
-[![İnsan Telefona Karşı](https://ytcards.demolab.com/?id=zn-8Hb8PBMk&title=%C4%B0nsan+Telefona+Kar%C5%9F%C4%B1&lang=en&timestamp=1701875703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İnsan Telefona Karşı")](https://www.youtube.com/watch?v=zn-8Hb8PBMk)
-[![Tarayıcı Savaşları ve OpenAI Olayları](https://ytcards.demolab.com/?id=a2fZ9s8PLVU&title=Taray%C4%B1c%C4%B1+Sava%C5%9Flar%C4%B1+ve+OpenAI+Olaylar%C4%B1&lang=en&timestamp=1701270900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tarayıcı Savaşları ve OpenAI Olayları")](https://www.youtube.com/watch?v=a2fZ9s8PLVU)
--->
-<!-- END YOUTUBE-CARDS -->
 
 
 <picture>
@@ -189,3 +135,26 @@
 <details>
    <summary>:zap: Languages and Tools</summary>
  -->
+<div style="display: inline_block" ><br>
+
+  <img align="left" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
+
+  <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="laura-c#" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="laura-.net" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
+          
+          
+ 
+  <img align="right" alt="laura-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/9vjgaOecdyJL38m03z/giphy.gif">
+</div>
+  
+  #
+  
+<div> 
+  <a href="https://www.linkedin.com/in/laura-loyola-5195aa213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/laurasiiia_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lauraloyolarpeixoto@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
+  </div>
