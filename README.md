@@ -76,14 +76,14 @@
 -->
 <!-- END YOUTUBE-CARDS -->
 
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
-
+![snake gif](https://github.com/noname-07/noname-07/blob/output/github-contribution-grid-snake.gif)
 
 # Github Stats
 
