@@ -61,6 +61,8 @@
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noname-07&label=Profile%20views&color=0e75b6&style=plastic" alt="noname-07" /> <a href="https://www.youtube.com/c/noname-07">
     <img src="https://img.shields.io/badge/$-Support Me-ff69b4.svg?style=flat" alt="Donate" />
+ <h1 align="center">• 💸 SUPPORT ME •</h1>
+<p><a href="https://www.buymeacoffee.com/RoyF"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RoyF" /></a> ✧ <a href="https://ko-fi.com/RoyF"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RoyF" /></a></p><br><br>
   </a> 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
  </a>
