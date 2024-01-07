@@ -71,6 +71,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noname-07&label=Profile%20views&color=0e75b6&style=plastic" alt="noname-07" /> <a href="https://www.youtube.com/c/noname-07">
     <img src="https://img.shields.io/badge/$-Support Me-ff69b4.svg?style=flat" alt="Donate" />
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <h1 align="center">• 💸 SUPPORT ME •</h1>
 <p><a href="https://www.buymeacoffee.com/RoyF"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RoyF" /></a> ✧ <a href="https://ko-fi.com/RoyF"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RoyF" /></a></p><br><br>
   </a> 
@@ -80,7 +81,6 @@
 
 <h1 align="center">• 🌐 CONNECT WİTH ME •</h1>
 <p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://medium.com/@noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noname-07" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noname-07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noname-07" height="30" width="40" /></a>
@@ -108,6 +108,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <picture>
@@ -122,7 +123,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noname-07&theme=vue)
 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # • 📊 GİTHUB STATS •
 
  <br />
