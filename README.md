@@ -81,14 +81,60 @@
 
 <h1 align="center">• 🌐 CONNECT WİTH ME •</h1>
 <p align="left">
-<a href="https://medium.com/@noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noname-07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noname-07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noname-07" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://twitter.com/royfofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandarudev" height="30" width="40" /></a>
+<a href="https://instagram.com/royfofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandarutharuneth" height="30" width="40" /></a>
+<a href="https://facebook.com/royfofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandarutharuneth" height="30" width="40" /></a>    
+<a href="https://www.youtube.com/c/royfofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noname-07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/royfofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noname-07" height="30" width="40" /></a>
 </p>
+<a href="https://discord.gg/QZ3hWeJEEp"><img src="https://discord.com/api/guilds/815613595069054996/widget.png?style=banner2"></a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+---
+
+## My Discord Bot Projects
+
+| Bot | Name | Status | About | Website |
+| :---- | :---- | :---- | :---- | :---- |
+|![rowbot]([https://i.imgur.com/Mn4Tbbz.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550437966696559/RowBot.webp))| **RowBot** `✔ BOT` | `🔘 Online` | Multi-Purpose Bot | [**www.comingsoon.xyz**](https://openjourneybot.com) |
+|![Imgur]([https://i.imgur.com/UmFVQjM.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550446426587256/RowBot_Premium.webp))| **RowBot Premium** `✔ BOT` | `🛠 Maintenance` | Adv. Multi-Purpose Bot | [**www.comingsoon.xyz**](https://dovemusic.co) |
+|![Imgur]([https://i.imgur.com/ptQ9Rbc.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550454538387556/Star_Giveaway.webp))| **Star Giveaway** `✔ BOT` | `🔘 Online` | Giveaway Bot | [**www.comingsoon.xyz**](https://ivongiveaways.com) |
+|![Imgur]([https://i.imgur.com/QxrHZaX.png](https://cdn.discordapp.com/attachments/1006962822363750401/1193550463816175647/Aron_Music.webp))| **Aron Music** `✔ BOT` | `🛠 Maintenance` | Server Music Bot | `🛠 Maintenance` |
+
+---
 
 # • 💻 LANGUAGES & TOOLS •
+<h3 align="left">Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,appwrite,arduino,au,blender,git,bootstrap,codepen,bots,figma,flutter,idea,ai,md,nginx,ps,powershell,pr,unity,unreal,vscode,xd" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=babel,bash,c,cs,cpp,html,css,js,docker,dotnet,electron,java,python,kotlin,mongodb,mysql,nextjs,nodejs,php,react,rust,swift,tailwind,ts,vite" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Services:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,devto,firebase,gcp,discord,github,heroku,netlify,vercel,replit,instagram,twitter,linkedin,postman,stackoverflow,webflow,wordpress" />
+  </a>
+</p>
+
+---
+
+<!--
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -109,7 +155,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noname-07/noname-07/output/github-contribution-grid-snake-dark.svg">
