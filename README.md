@@ -4,7 +4,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=noname-07&color=blue) -->
 <div align="center">
  <a href="https://github.com/noname-07">
-  <h1 align="center">Hi , I'm NoName User <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hi , I'm RoyF <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -68,7 +68,7 @@
  </a>
 </div>
 
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">• 🌐 CONNECT WİTH ME •</h1>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://medium.com/@noname-07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@noname-07" height="30" width="40" /></a>
@@ -78,7 +78,7 @@
 </p>
 
 
-# 💻 Languages and Tools:
+# • 💻 LANGUAGES & TOOLS •
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -113,7 +113,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noname-07&theme=vue)
 
 
-# Github Stats
+# • 📊 GİTHUB STATS •
 
  <br />
  
@@ -153,7 +153,7 @@
 </p>
  <hr/>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
-  <h4 align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
+  <h4 align="center"><b>• NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> 
   <br>
   
