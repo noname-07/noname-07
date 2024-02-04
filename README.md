@@ -1,5 +1,5 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-![MasterHead]([https://github.com/noname-07/noname-07/blob/main/img/Github%20Banner.jpg](https://cdn.discordapp.com/attachments/1006962822363750401/1203679278282317824/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))
+![MasterHead](https://cdn.discordapp.com/attachments/1006962822363750401/1203679780961128548/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif?ex=65d1f927&is=65bf8427&hm=d6ed9f60831b42aff0d1073bf6ddc636701c3328e1d9446913dcf243f968d7a4&)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- ![](https://komarev.com/ghpvc/?username=noname-07&color=blue) -->
 <div align="center">
